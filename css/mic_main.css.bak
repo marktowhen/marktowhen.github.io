@@ -2289,8 +2289,8 @@
 			#me {
 				padding: 0;
 				margin-right: 3rem; 
-				height: 20em;
-				background:#bcbcbc
+				height: 20em;#bcbcbc;
+				background:
 				
 			}
 
